@@ -1,5 +1,5 @@
 echo update current file to github
 git add .
 git commit -am "update time: %date% %time%"
-git push -u origin master
+git push -u heroku master
 pause
